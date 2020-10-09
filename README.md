@@ -13,5 +13,5 @@
 - ⚡ Fun fact: I worked as a DBA 
 
 
-[email]: kelly.shpark@gmail.com
+[email]: mailto:kelly.shpark@gmail.com
 [linkedin]: https://www.linkedin.com/in/kellyshpark
