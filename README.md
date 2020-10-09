@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm dreaming of becomig a developer!
+## I'm dreaming of becoming a developer!
 
 Here are some ideas to get you started:
 
