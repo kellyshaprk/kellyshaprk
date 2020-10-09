@@ -1,10 +1,12 @@
 ## Hi, I'm Kelly 👋
 
-### After graduating from college with a 94 GPA in the computer studies field, 
 
-- 🔭 I’m currently working on becoming a developer 🤣
+I'm currently trying to become a Junior Developer after graduating from college with a 94 GPA. 
+When I was in college, I accomplished many labs, assignments, and projects. I've uploaded some of them here and will continue to work on new projects.
+
 - 🌱 I’m currently learning Java and Python
-- 🤔 I’m looking for help with getting a job 
+- 🤔 I’m looking for help with preparation for a job
+- 🙏 I hope I could get a job in 2020
 - ⚡ Fun fact: I worked as a DBA 
 
 ### Connect with me:
