@@ -16,5 +16,7 @@
 [<img align="left" alt="kelly gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 
+### Languages and Tools:
+
 [email]: mailto:kelly.shpark@gmail.com
 [linkedin]: https://www.linkedin.com/in/kellyshpark
