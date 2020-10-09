@@ -1,4 +1,4 @@
-## Hi, I'm Kelly, dreaming of becoming a developer! 👋
+## Hi, I'm Kelly 👋
 
 ### Graduated from college with a 94 GPA in the computer studies field 🎉
 
