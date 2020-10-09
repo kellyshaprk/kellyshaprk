@@ -1,14 +1,11 @@
-### Hi there 👋
+## Hi, I'm Kelly, dreaming of becoming a developer! 👋
 
-
-
-## I'm Kelly, dreaming of becoming a developer!
 ### Graduated from college with a 94 GPA in the computer studies field 🎉
 
 - 🔭 I’m currently working on becoming a developer 🤣
 - 🌱 I’m currently learning Java and Python
 - 🤔 I’m looking for help with getting a job 
-- ⚡ Fun fact: I worked as a DBA (MSSQL)
+- ⚡ Fun fact: I worked as a DBA 
 
 ### Connect with me:
 [<img align="left" alt="kelly LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
