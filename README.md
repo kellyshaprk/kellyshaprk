@@ -3,7 +3,7 @@
 
 
 ## I'm Kelly, dreaming of becoming a developer!
-### Graduated from college in the field of computer studies with an average of 94% 🎓 🎉
+### Graduated from college with a 94 GPA in the computer studies field 🎉
 
 - 🔭 I’m currently working on becoming a developer 🤣
 - 🌱 I’m currently learning Java and Python
