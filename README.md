@@ -1,6 +1,6 @@
 ## Hi, I'm Kelly 👋
 
-### Graduated from college with a 94 GPA in the computer studies field 🎉
+### After graduating from college with a 94 GPA in the computer studies field, 
 
 - 🔭 I’m currently working on becoming a developer 🤣
 - 🌱 I’m currently learning Java and Python
