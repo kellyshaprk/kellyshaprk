@@ -2,6 +2,7 @@
 
 
 I'm currently trying to become a Junior Developer after graduating from college with a 94 GPA. 
+<br />
 When I was in college, I accomplished many labs, assignments, and projects. I've uploaded some of them here and will continue to work on new projects.
 
 - 🌱 I’m currently learning Java and Python
