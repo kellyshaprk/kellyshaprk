@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👔 [https://www.linkedin.com/in/kellyshpark][linkedin]
+👔 [linkedin][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/kellyshpark
