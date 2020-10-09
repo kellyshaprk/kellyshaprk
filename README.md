@@ -1,6 +1,6 @@
 ### Hi there, I'm Kelly 👋
 
-👔 [linkedin][linkedin]
+
 
 ## I'm dreaming of becoming a developer!
 
@@ -9,9 +9,9 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: kelly.shpark@gmail.com or https://www.linkedin.com/in/kellyshpark
+- 📫 How to reach me: ✉️ [email][email] or 👔 [linkedin][linkedin]
 - ⚡ Fun fact: I worked as a DBA 
 
 
-
+[email]: kelly.shpark@gmail.com
 [linkedin]: https://www.linkedin.com/in/kellyshpark
